@@ -1,3 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1H9i_EAQaqhiUcsy2yuDx8JYQslhlqMXI
+    url: "https://<aem>/bin/franklin.delivery/chis-adobe/learn-xwalk/main"
+    type: "markup"
+    suffix: ".html"
