@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://<aem>/bin/franklin.delivery/chis-adobe/learn-xwalk/main"
+    url: "https://author-p130746-e1275972.adobeaemcloud.com/bin/franklin.delivery/chis-adobe/learn-xwalk/main"
     type: "markup"
     suffix: ".html"
