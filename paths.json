@@ -1,5 +1,7 @@
 {
   "mappings": [
-    "/content/pelican-xwalk-demo/:/"
+    "/content/wknd-eds/:/",
+    "/content/wknd-eds/metadata.json:/metadata.json",
+    "/content/wknd-eds/redirects.json:/redirects.json"
   ]
 }
