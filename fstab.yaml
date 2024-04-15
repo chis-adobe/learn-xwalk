@@ -1,5 +1,6 @@
 mountpoints:
-  /:
-    url: "https://author-p130746-e1298459.adobeaemcloud.com/bin/franklin.delivery/chis-adobe/learn-xwalk/main"
-    type: "markup"
-    suffix: ".html?wcmmode=disabled"
+  /: https://drive.google.com/drive/u/0/folders/1XTknW7Y-9NAX-74Zw8xMqltVXYu5Sova
+  #/: 
+    #url: "https://author-p130746-e1298459.adobeaemcloud.com/bin/franklin.delivery/chis-adobe/learn-xwalk/main"
+    #type: "markup"
+    #suffix: ".html?wcmmode=disabled"
