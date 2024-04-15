@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: "https://author-p130746-e1298459.adobeaemcloud.com/bin/franklin.delivery/chis-adobe/learn-xwalk/main"
     type: "markup"
-    suffix: ".html"
+    suffix: ".html?wcmmode=disabled"
